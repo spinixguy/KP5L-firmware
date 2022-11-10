@@ -2,6 +2,9 @@
 
 This repository contains firmware for the half-assembled version of the KP5L 3D printer from Kingroon. You should not use this firmware on any other printer.
 
+Use at your own risk. I am creating these files for my personal use and cannot be held responsible for what it might do to your printer.
+
+
 KP5L-half assembled-autolevel.zip and KP5L-half assembled-manual-level.zip are stock verisons of the firmware from Kingroon.
 The main difference between this firmware and that which you can download from Kingroon is that the configuration file has been translated to English.
 
