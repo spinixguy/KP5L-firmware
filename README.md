@@ -8,7 +8,8 @@ The main difference between this firmware and that which you can download from K
 Kingroon-KP5L-Marlin-2.1.1-MBL.zip and Kingroon-KP5L-Marlin-2.1.1-ABL.zip are configured versions of Marlin 2.1.1 for the KP5L printer.
 
 The MBL suffix denotes Manual bed leveling.
-The ABL suffix denotes Autmatic bed leveling. If you use the ABL version you should aslo use the probe mount listed here. 
-The offsets are calibrated for this mount.
+The ABL suffix denotes Automatic bed leveling. 
+
+NOTE: If you use the ABL version you should aslo use the probe mount listed here. The offsets are calibrated for this mount.
 
 https://www.thingiverse.com/thing:5612486
